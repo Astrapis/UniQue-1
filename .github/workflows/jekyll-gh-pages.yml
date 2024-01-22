@@ -49,3 +49,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+https://github.com/Astrapis/UniQue-1/new/main
+?filename=.github%2Fworkflows%2Fjekyll-gh
+-pages.yml&pages_workflow_template
+=pages%2Fjekyll-gh-pages        
